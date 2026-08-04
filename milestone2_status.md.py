@@ -17,3 +17,12 @@
 # Issues Encountered:
 # The hardest challenge originally I feel would be correlating all the functions into one fully automated process.
 # also would be good to better format totals within the loop and its variables for better summary statistics for it to be more accurate within each study session.
+
+# Milestone 3 test plan Update
+# What Was Fixed:
+# - During testing I verified that the summary calculations, study session totals, average focus rating, and loop behavior all functioned correctly.
+# - No major code changes were necessary because all implemented features had easily passed testing.\
+# Remaining Work:
+# - Still in need of adding input validation to prevent users from entering invalid data.
+# - Future milestones will also include saving study sessions to a file, loading previous sessions, displaying study history, adding a menu system, and better allowing
+# - users to edit or delete study sessions.
